@@ -8,6 +8,10 @@ before you can use this script you should install Mplayer mencoder program for m
 
 www.mplayerhq.hu
 
-best wishes
-Yahya Alfayad
+using this script is very easy just issue the following command
+
+<code>sh ogvtoavi.sh \<input file\></code>
+
+best wishes<br />
+Yahya Alfayad<br />
 March, 2014.
